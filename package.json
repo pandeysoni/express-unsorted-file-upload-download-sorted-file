@@ -1,21 +1,17 @@
 {
-  "name": "node-angular-boilerplate",
-  "description": "node angular structure",
+  "name": "Express-file-upload-download",
+  "description": "Express-file-upload-download",
   "version": "0.1.0",
   "main": "server",
   "engines": {
-    "node": ">=0.10.22"
-  },
-  "scripts": {
-    "postinstall": "bower install"
+    "node": ">=6.9.1"
   },
   "dependencies": {
-    "body-parser": "^1.13.3",
-    "boom": "^2.6.1",
-    "express": "^4.10.6",
-    "mongoose": "3.8.x",
-    "request": "^2.44.0",
-    "bower": "~1.6.3"
+    "@types/body-parser": "^1.16.0",
+    "@types/express": "^4.0.35",
+    "body-parser": "^1.17.1",
+    "connect-multiparty": "^2.0.0",
+    "express": "^4.15.2"
   },
   "author": {
     "name": "sonipandey",

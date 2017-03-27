@@ -1,4 +1,4 @@
-Node-Angular-Boilerplate
+Demo
 
 ### Install an app
 
